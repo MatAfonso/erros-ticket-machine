@@ -2,12 +2,12 @@ package br.calebe.ticketmachine.core;
 
 /**
  *
- * @author Matheus Afonso Leite da Silva (10409312) & Renan Nunes dos Santos (10409432)
+ * @author 
  */
 public class PapelMoeda {
 
-    protected int valor; // Comissão - Modificador de acesso incorreto
-    protected int quantidade; // Comissão - Modificador de acesso incorreto
+    protected int valor; 
+    protected int quantidade;
 
     public PapelMoeda(int valor, int quantidade) {
         this.valor = valor;
